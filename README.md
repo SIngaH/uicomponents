@@ -38,9 +38,8 @@ Du skal downloade XD filen herfra: https://bit.ly/2Xkqsbm
 ## Aflevering
 Aflevering torsdag d. 4 Juni.<br>
 Du har afleveret når din applikation er hostet på github pages og linket hertil er sat ind herunder.<br><br>
-**Projekt url:** https://github.com/rts-cmk-wuhf02/praktikperiode-uicomponent-SIngaH
-
+**Projekt url:** 
+hvis du vil se mine commits så kigg på 
+https://github.com/rts-cmk-wuhf02/praktikperiode-uicomponent-SIngaH
 branch som hedder Gatsby-uicomponents
 det ser bedst ud i firefox developer edition
-
-jeg prøver ar sætte det op på op på https://singah-uicomponents.netlify.app/
