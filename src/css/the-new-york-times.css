@@ -1,0 +1,32 @@
+#TheNewYorkTimes{
+    background-color: #fff;
+    border-radius: 1rem;
+    padding:0 15% 15% 15%;
+}
+#TheNewYorkTimes button{
+    color:var(--fourth-blue);
+    background-color: #fff;
+    font-size: 17px;
+    font-weight:bold;
+    padding:2% 5%;
+    border-radius: 1rem;
+    border:solid 1px #EBEBEB;
+}
+.new-york-logo{
+    display:flex;
+    flex-direction: row;
+}
+.new-york-logo h2{
+    font-size: 15px;
+    padding:19% 0 0 5%;
+}
+.tnyt-logo{
+    width: 19%;
+    height: 19%;
+}
+.tnyt-logo picture img{
+    position: static !important;
+}
+#TheNewYorkTimes p{
+    padding: 13% 0;
+}

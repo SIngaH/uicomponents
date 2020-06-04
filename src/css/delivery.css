@@ -1,0 +1,30 @@
+#Delivery{
+    background-color:var(--first-blue);
+    border-radius: 1rem;
+}
+#Delivery:last-child{
+    margin:0;
+}
+#Delivery{
+    padding: 1% 2%;
+    margin:0 1% 0 0;
+    display:grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 50% 50%;
+}
+#Delivery h1{
+    font-family:'Gotham Pro Bold'; 
+    font-size: 20px;
+}
+.deliveryImg{
+    place-self: center end;
+    width:30%;
+}
+.delivery-text{
+    color:#fff;
+    grid-row:2;
+}
+.delivery-text p{
+    color:#fff;
+    padding-bottom: 16%;
+} 

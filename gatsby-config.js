@@ -1,5 +1,5 @@
 require("dotenv").config({
-  path: `.env.${process.env.NODE_ENV}`,
+  path: `.env.production`,
 });
 
 const contentfulConfig = {
@@ -25,7 +25,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful starter",
+    title: "Ingas UI Components",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
